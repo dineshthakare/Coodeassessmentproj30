@@ -10,7 +10,7 @@ main{
      
         width: 100%;
         height: 100vh;
-    background-image: url("/Images/Rainn.jpg");
+    background-image: url("Images/Rainn.jpg");
     background-repeat: no-repeat;
     background-size: 4500px 1000px;
     align-self: auto;
